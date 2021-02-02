@@ -1,3 +1,3 @@
 # homebrew-hocus
 
-Homebrew formula for the command-line time tracking tool [hocus](https://github.com/paulkre/hocus/).
+Homebrew formula for the time tracking command-line tool [hocus](https://github.com/paulkre/hocus/).
